@@ -1,8 +1,0 @@
--qwC2%Px%q0b0%s%uN0L2%I0H0%kf2%f#f -F "" -%l "ru, en, *" http://mkb-10.com -O1 "C:\Users\Lensws\Documents\GitHub\mkb10\web\mkb10" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-File generated automatically on Sat, 14 Jul 2018 13:46:42, do NOT edit
-
-To update a mirror, just launch httrack without any parameters
-The existing cache will be used (and modified)
-To have other options, retype all parameters and launch HTTrack
-To continue an interrupted mirror, just launch httrack without any parameters
-
